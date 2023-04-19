@@ -1,4 +1,4 @@
-### Hi there 👋< I'm Luiz Fernando
+### Hi there 👋 I'm Luiz Fernando
 
 <!--
 **luizfrodrigues/luizfrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
